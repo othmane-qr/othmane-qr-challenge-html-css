@@ -1,0 +1,171 @@
+body{
+    font-family: 'Barlow Condensed', sans-serif;
+    
+}
+
+
+.intro-div{ 
+    width: 50%;
+    float: left;
+    width: 50%;
+    position: relative;
+   
+    
+
+    
+    
+}
+
+
+#logo{
+    margin-left: 25%;
+    margin-top: 10%;
+   
+}
+
+.paragraph-section{
+    
+    margin-left: 25%;
+    padding-top: 15%;
+    
+    
+   
+}
+
+.paragraph-section h1{
+    
+}
+
+
+
+
+.paragraph-section  span{
+    color: white;
+    background-color : black;
+    font-weight: bolder;
+    border-radius: 50%;
+    border: 0.5em solid black;
+    
+}
+
+.paragraph-section #first-paragraph{
+    
+    display: inline;
+    color:#ACACAE; 
+    font-size: 1.5em; 
+    margin: 1em;
+
+}
+
+.paragraph-section #last-paragraph{
+    width: 40%;
+   color: #8E929B;
+   margin-top: 10%;
+   
+}
+
+
+
+.button-section{
+    margin-left:25% ;
+    margin-top: 15%;
+    
+
+}
+
+
+.button-section Button {
+    
+
+    background-color: #fa8787; 
+    border: none;
+     color: white;
+     padding: 1em 1.5em;
+     text-align: center;
+     display: inline-block;
+     font-size: 1em;
+     border-radius: 1.5em;
+     
+}
+.button-section a{
+    text-decoration: none;
+    color: gray;
+    padding: 1em;
+}
+
+
+/* The first section art divs */
+
+
+.art-div{
+left: 50%;
+position: absolute;
+height: auto;
+margin-bottom: 20%;
+
+
+  
+}
+
+.art-div img{
+
+    width: 90%;
+    height: auto;
+    
+}
+
+.art-div ul{
+
+    margin-top: 8%;
+    margin-bottom: 10%;
+    
+
+    
+    
+}
+
+.art-div ul li{
+    display: inline;
+    padding: 1em 2em;
+    font-weight: bold;
+    text-transform: uppercase;
+    
+    
+}
+
+.art-div ul li a{ 
+    color: black;
+    text-decoration: none;
+   
+} 
+
+.art-div ul li a:hover{
+    color:blue;
+    
+     
+    
+}
+
+
+.art-div .dotted-circle{
+   
+}
+
+.art-div .login-grey{
+    color: gray;
+    
+}
+
+
+
+/* the second section background gris*/
+.art-background{
+    background-color: rgb(211, 208, 208);
+    width: 50%;
+    height: 40%;
+    position: absolute;
+    top: 0%;
+    right: 1%;
+    border-bottom-left-radius: 3em;
+
+}
